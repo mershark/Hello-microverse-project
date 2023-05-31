@@ -27,7 +27,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b></b></h3>
@@ -64,13 +63,11 @@ After you're finished please remove all the comments and instructions!
 
 
 
-**[Hello Microverse Project]**  is a project, where I set up a "Hello world" repository. No complex coding was required for this exercise. My goal here was to master all of the tools and best practices I learned about in previous steps. In this Project, I created a GitHub repository "Hello-microverse-project" where I created" a feature branch "Hello Branch". I also set up HTML and CSS linters and added a Readme file, .HTML file, .CSS file, and a test.md file. I also made sure that the test.md file and node_mmodules folder weren't present in my repository.
+**Hello Microverse Project**  is a project, where I set up a "Hello world" repository. No complex coding was required for this exercise. My goal here was to master all of the tools and best practices I learned about in previous steps. In this Project, I created a GitHub repository "Hello-microverse-project" where I created" a feature branch "Hello Branch". I also set up HTML and CSS linters and added a Readme file, .HTML file, .CSS file, and a test.md file. I also made sure that the test.md file and node_mmodules folder weren't present in my repository.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -181,8 +178,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Mershark Takyi**
 
 - GitHub: [@githubhandle](https://github.com/mershark)
@@ -193,8 +188,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Home page]**
 - [ ] **[About us page]**
@@ -216,8 +209,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, your support will be very much appreciate, kindly contact me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -225,8 +216,6 @@ If you like this project, your support will be very much appreciate, kindly cont
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my code reviewer who gave me insightful reviews to help correct and complete this project
 
