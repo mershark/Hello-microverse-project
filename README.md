@@ -26,43 +26,220 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse Project</b></h3>
+  <h3><b></b></h3>
 
 </div>
 
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="Hello Microverse Project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
 
-Hello Microverse Project is a project, where I set up a "Hello world" repository. No complex coding was required for this exercise. My goal here was to master all of the tools and best practices I learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them! I will also get my first code review. This is also a process that will be used in all Microverse projects.
 
-## Built With
+**[Hello Microverse Project]**  is a project, where I set up a "Hello world" repository. No complex coding was required for this exercise. My goal here was to master all of the tools and best practices I learned about in previous steps. In this Project, I created a GitHub repository "Hello-microverse-project" where I created" a feature branch "Hello Branch". I also set up HTML and CSS linters and added a Readme file, .HTML file, .CSS file, and a test.md file. I also made sure that the test.md file and node_mmodules folder weren't present in my repository.
 
--Major languages
-HTML,CSS
+## 🛠 Built With <a name="built-with"></a>
 
-## Authors
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="">HTML and Css</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Understood the concept of version control.]**
+- **[Write short, detailed, easy to understand descriptions of pull requests.]**
+- **[Professional documentation of Readme]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+NPM installed
+Any code editor
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder by:
+cd my-folder
+git clone https://github.com/mershark/Hello-microverse-project.git
+cd my-project
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Installation is completed once the repository and cloned into your local machine.
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project launch index.html in your browser
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+npx stylelint "**/*.{css,scss}
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project by transferring the files in your local repository onto your sever
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
 👤 **Mershark Takyi**
 
 - GitHub: [@githubhandle](https://github.com/mershark)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mershark/)
-## 🤝 Contributing
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Home page]**
+- [ ] **[About us page]**
+- [ ] **[Blog Page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Thank you for being involved in it in any way
+<!-- SUPPORT -->
 
-## 📝 License
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project, your support will be very much appreciate, kindly contact me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank my code reviewer who gave me insightful reviews to help correct and complete this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
