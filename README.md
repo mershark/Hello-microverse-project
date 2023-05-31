@@ -80,9 +80,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Understood the concept of version control.]**
-- **[Write short, detailed, easy to understand descriptions of pull requests.]**
-- **[Professional documentation of Readme]**
+- **Understood the concept of version control.**
+- **Write short, detailed, easy to understand descriptions of pull requests.**
+- **Professional documentation of Readme**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,9 +189,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Home page]**
-- [ ] **[About us page]**
-- [ ] **[Blog Page]**
+- [ ] **Home page**
+- [ ] **About us page**
+- [ ] **Blog Page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
